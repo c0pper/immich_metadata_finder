@@ -1,0 +1,1 @@
+script to look for metadata of pictures from google takeout in order to use them in photos missing them in immich
